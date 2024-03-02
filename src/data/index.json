@@ -2,49 +2,49 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/product-chain-1.png",
-      "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/online.png",
+      "title": "Amazon",
+      "description": "Amazon is the world's largest online retail marketplace for a vast array of goods and items."
     },
     {
       "id": "2",
-      "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/book.png",
+      "title": "Barnes and Noble",
+      "description": " Barnes & Noble is the world's largest bookseller, offering an extensive selection of new books."
     },
     {
       "id": "3",
-      "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/store.png",
+      "title": "Walmart",
+      "description": "Walmart is the world's largest chain of hypermarkets, offering a wide range of products."
     },
     {
       "id": "4",
-      "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/book.png",
+      "title": "Thriftbooks.com",
+      "description": "ThriftBooks.com is the world's largest online retailer of used books, providing affordable literature options."
     }
   ],
   "portfolio": [
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Brodin's Magic Blankee",
+      "description": "When Brodin loses track of the blanket after a big trip, what will he do to sleep or feel better when afraid?",
       "link": "View In Github"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/coming_soon.png",
+      "title": "Coming Soon...",
+      "description": "Please keep watching this website and hold tight, for I am currently writings new books that will be released!",
       "link": "View In Github"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/coming_soon.png",
+      "title": "Coming Soon...",
+      "description": "Please keep watching this website and hold tight, for I am currently writings new books that will be released!",
       "link": "View In Github"
     }
   ],
@@ -52,26 +52,26 @@
     {
       "id": "1",
       "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
+      "src": "./img/avatar.png",
+      "description": "This is such a sweet book! We will cherish this book for many years to come!!",
+      "author_name": "Megan Dickerson",
+      "author_designation": "Amazon"
     },
     {
       "id": "2",
       "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
+      "src": "./img/avatar.png",
+      "description": "This book is so amazing and truly special! Highly recommend for kids of all ages.",
+      "author_name": "Amazon Customer",
+      "author_designation": "Amazon"
     },
     {
       "id": "3",
       "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "src": "./img/avatar.png",
+      "description": "I am so proud of my mom! This book is so special to our family. All of my friends have bought it!",
+      "author_name": "Myia Elliott",
+      "author_designation": "Daughter"
     }
   ]
 }

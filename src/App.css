@@ -25,6 +25,9 @@ p {
   --black: #000000;
   --white: #ffffff;
 }
+.btn-center {
+  margin-top: 22px;
+}
 .btn {
   font-family: "Roboto";
   display: inline-block;
@@ -60,8 +63,9 @@ p {
   color: var(--white);
   background-color: var(--primary);
   border: 1px solid var(--primary);
+  box-shadow: 0 7px 5px 1px rgba(0, 0, 0, 0.2);
 }
-.btn-primary:hover {
+.btn-center .btn-primary:hover {
   color: var(--primary);
   background-color: var(--white);
 }
@@ -265,9 +269,10 @@ h2 {
   align-items: flex-start;
   gap: 32px;
   flex: 1 0 0;
-  border-radius: 10.6px;
+  border-radius: 15px;
   background: var(--bg-shade);
   min-height: 250px;
+  box-shadow: 0 7px 5px 1px rgba(0, 0, 0, 0.2);
 }
 .skills--section--card:hover {
   border-bottom: 4px solid var(--primary);
@@ -318,6 +323,8 @@ h2 {
 .about--section--img > img {
   width: 100%;
   height: 100%;
+  border-radius: 15px;
+  box-shadow: 0 7px 5px 1px rgba(0, 0, 0, 0.2);
 }
 /* About Us Ends */
 
@@ -349,23 +356,26 @@ h2 {
   width: 100%;
 }
 .portfolio--section--img {
-  border-radius: 8px;
+  border-radius: 15px;
   width: 100%;
+  /* border-top: 1px black; */
 }
 .portfolio--section--img > img {
   width: 100%;
+  border-radius: 15px;
+  border-top: 1px solid #797979;
 }
 .portfolio--section--card {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  border-top: 1px black;
   gap: 32px;
   flex: 1 0 0;
   background: #fff;
-  box-shadow: 0 0 32px 0 rgba(0, 0, 0, 0.15);
+  box-shadow: 0 7px 5px 1px rgba(0, 0, 0, 0.2);
   cursor: pointer;
-  border-top-left-radius: 12px;
-  border-top-right-radius: 12px;
+  border-radius: 15px;
 }
 .portfolio--section--card--content {
   display: flex;
@@ -410,8 +420,9 @@ h2 {
   align-items: flex-start;
   gap: 42.6px;
   flex: 1 0 0;
-  border-radius: 8px;
+  border-radius: 15px;
   border: 1.33px solid #006b6a;
+  box-shadow: 0 7px 5px 1px rgba(0, 0, 0, 0.2);
 }
 .testimonial--section--card--reviews {
   display: flex;
@@ -597,6 +608,11 @@ input[type="checkbox"] {
 }
 
 @media only screen and (max-width: 1200px) {
+  .btn-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   .btn-outline-primary {
     display: none;
   }

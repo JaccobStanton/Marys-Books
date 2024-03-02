@@ -5,8 +5,8 @@ export default function Testimonial() {
     <section className="testimonial--section" id="testimonial">
       <div className="portfolio--container-box">
         <div className="portfolio--container">
-          <p className="sub--title">Clients Feedback</p>
-          <h2 className="sections--heading">Customer Feedback</h2>
+          <p className="section--title">See what others have to say!</p>
+          <h2 className="skills--section--heading">Reviews</h2>
         </div>
       </div>
       <div className="portfolio--section--container">
@@ -31,6 +31,7 @@ export default function Testimonial() {
             <p className="text-md">{item.description}</p>
             <div className="testimonial--section--card--author--detail">
               <img src={item.src} alt="Avatar" />
+              {/* <a target="_blank" href="https://icons8.com/icon/99268/person">Avatar</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> */}
               <div>
                 <p className="text-md testimonial--author--name">
                   {item.author_name}

@@ -4,14 +4,21 @@ export default function MySkills() {
   return (
     <section className="skills--section" id="mySkills">
       <div className="portfolio--container">
-        <p className="section--title">My Skills</p>
-        <h2 className="skills--section--heading">My Expertise</h2>
+        <p className="section--title">In a store near you...</p>
+        <h2 className="skills--section--heading">Where to Find</h2>
       </div>
       <div className="skills--section--container">
         {data?.skills?.map((item, index) => (
           <div key={index} className="skills--section--card">
             <div className="skills--section--img">
               <img src={item.src} alt="Product Chain" />
+              {/* <a target="_blank" href="https://icons8.com/icon/489/shop">
+                Store
+              </a>{" "}
+              icon by{" "}
+              <a target="_blank" href="https://icons8.com">
+                Icons8
+              </a> */}
             </div>
             <div className="skills--section--card--content">
               <h3 className="skills--section--title">{item.title}</h3>
