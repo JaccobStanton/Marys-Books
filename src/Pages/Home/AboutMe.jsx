@@ -34,8 +34,9 @@ export default function AboutMe() {
             with cognitive impairment, speech impairment, hearing impaired,
             multiple physical needs as well as behaviorally challenging. Once
             again our family was challenged with new concerns. Once again, we
-            conquered and embraced our future. I then dedicated my career to
-            working with special needs kids in the school setting. "
+            conquered and embraced our future. I then spent many years
+            dedicating my career to working with special needs kids in the
+            school setting. "
           </p>
         </div>
       </div>
