@@ -5,8 +5,15 @@ function Footer() {
   return (
     <footer className="footer--container">
       <div className="footer--link--container">
-        <div>
-          <img src="./img/logo.svg" alt="Logoipsum" />
+        <div className="footer--logo">
+          {/* <img
+            style={{
+              width: "10%",
+              height: "10%",
+            }}
+            src="./img/logo1.png"
+            alt="Logoipsum"
+          /> */}
         </div>
         <div className="footer--items">
           <ul>
@@ -78,7 +85,7 @@ function Footer() {
           </ul>
         </div>
         <div className="footer--social--icon">
-          <ul>
+          {/* <ul>
             <li>
               <a
                 href="https://www.facebook.com/"
@@ -167,7 +174,7 @@ function Footer() {
                 </svg>
               </a>
             </li>
-          </ul>
+          </ul> */}
         </div>
       </div>
       <hr className="divider" />
