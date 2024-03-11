@@ -34,8 +34,19 @@ function Navbar() {
 
   return (
     <nav className={`navbar ${navActive ? "active" : ""}`}>
-      <div>
-        <img src="./img/logo.svg" alt="Logoipsum" />
+      <div
+        className="logo-image-container"
+        style={{ width: "20%", display: "flex", alignItems: "center" }}
+      >
+        <img
+          className="logo-image"
+          style={{ width: "30%", height: "20%" }}
+          src="./img/logo1.png"
+          alt="Mary's Books Logo"
+        />
+        <h3 className="logo-name" style={{ marginLeft: "20px" }}>
+          Mary's Books
+        </h3>
       </div>
       <a
         className={`nav__hamburger ${navActive ? "active" : ""}`}
