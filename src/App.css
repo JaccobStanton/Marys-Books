@@ -686,6 +686,9 @@ input[type="checkbox"] {
   .divider {
     margin: 20px;
   }
+  .footer--logo {
+    margin-right: 30px;
+  }
 }
 
 /* Hamburger menu  */
@@ -711,6 +714,20 @@ input[type="checkbox"] {
 }
 
 @media screen and (max-width: 1200px) {
+  .logo-name {
+    display: none;
+  }
+  .logo-image {
+    display: none;
+  }
+  /* Optionally, set a min-width for the logo container to maintain the space */
+  .logo-image-container {
+    min-height: 40px; /* Adjust the min-width as per the original size of the logo */
+  }
+  .hero--section-description {
+    font-size: 17px;
+  }
+
   .nav__hamburger {
     display: flex;
     z-index: 200;
