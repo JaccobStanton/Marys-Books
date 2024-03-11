@@ -166,10 +166,12 @@ h2 {
   left: 0;
   right: 0;
 }
+
 .navbar--items > ul {
   list-style: none;
   display: flex;
   align-items: flex-start;
+  margin-left: -150px; /* //!used to center my navbar titles */
   gap: 42.667px;
   text-decoration: none;
 }
