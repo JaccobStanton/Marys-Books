@@ -28,7 +28,7 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/book-cover.png",
+      "src": "./img/hero_img.png",
       "title": "Brodin's Magic Blankee",
       "description": "When Brodin loses track of the blanket after a big trip, what will he do to sleep or feel better when afraid?",
       "link": "View In Github"
