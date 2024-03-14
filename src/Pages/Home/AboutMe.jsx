@@ -17,7 +17,7 @@ export default function AboutMe() {
             and my family among other things. I married my husband Brian in 1996
             after which we bought our first home in 1996 as well.
           </p>
-          <p className="hero--section-description">
+          {/* <p className="hero--section-description">
             My amazing daughter was born in 1998 and then my brave son in 2000.
             I worked as a retail merchandise buying assistant for almost 13
             years before having to quit work and care for Brodin who had been
@@ -27,7 +27,7 @@ export default function AboutMe() {
             illinois it was quite challenging. As treatment ended and Brodin
             recovered, so did our family. We learned to be brave individually in
             different ways.{" "}
-          </p>
+          </p> */}
 
           <p className="hero--section-description">
             As a result of Brodins medical history, he was now special needs
