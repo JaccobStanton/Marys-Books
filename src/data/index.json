@@ -22,7 +22,7 @@
       "id": "4",
       "src": "./img/book.png",
       "title": "Thriftbooks.com",
-      "description": "ThriftBooks.com is the world's largest online retailer of used books, providing affordable literature options."
+      "description": "ThriftBooks is the largest online retailer of used books, providing affordable literature options."
     }
   ],
   "portfolio": [
@@ -69,7 +69,7 @@
       "id": "3",
       "count": "5",
       "src": "./img/avatar.png",
-      "description": "I am so proud of my mom! This book is so special to our family. All of my friends have bought it!",
+      "description": "This book is so special to our family. All of my friends have bought it!",
       "author_name": "Myia Elliott",
       "author_designation": "Daughter"
     }
