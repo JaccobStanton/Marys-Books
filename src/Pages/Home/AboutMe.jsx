@@ -9,13 +9,12 @@ export default function AboutMe() {
           {/* <p className="section--title">About the Author</p> */}
           <h1 className="skills-section--heading">About the Author</h1>
           <p className="hero--section-description">
-            " Born in St Louis, 1969. I am the middle child of 5. I grew up
-            mostly in central illinois but graduated high school in Arcadia, MO.
-            From there, I attended community college in St. Louis and in
-            Decatur, Illinois focusing on graphic design and elementary
-            education. I love art, music, the outdoors, bird watching, camping,
-            and my family among other things. I married my husband Brian in 1996
-            after which we bought our first home in 1996 as well.
+            "Born in St Louis, MO, I am the middle child of 5. I grew up mostly
+            in central Illinois but graduated high school in southern Missouri.
+            From there, I attended community college, focusing on graphic design
+            and elementary education. I love art, music, the outdoors, bird
+            watching, camping, and my family among other things. I got married
+            in 1996, after which we bought our first home.
           </p>
           {/* <p className="hero--section-description">
             My amazing daughter was born in 1998 and then my brave son in 2000.
@@ -30,13 +29,15 @@ export default function AboutMe() {
           </p> */}
 
           <p className="hero--section-description">
-            As a result of Brodins medical history, he was now special needs
-            with cognitive impairment, speech impairment, hearing impaired,
-            multiple physical needs as well as behaviorally challenging. Once
-            again our family was challenged with new concerns. Once again, we
-            conquered and embraced our future. I then spent many years
-            dedicating my career to working with special needs kids in the
-            school setting. "
+            I have 2 children, Myia and Brodin, of which are both adults now.
+            Brodin battled a childhood cancer which left him with disabilities.
+            As a result, I devoted many years of employment to working with
+            special needs students in our school district. I have always had the
+            desire to write a children's book, and I finally had the opportunity
+            this past year to pursue that dream. I am happy to share my first
+            book about how Brodin gained bravery and developed his own way to
+            overcome challenges. Stay tuned for the next one dedicated to my
+            daughter. If you liked the first, you'll love the next."
           </p>
         </div>
       </div>
